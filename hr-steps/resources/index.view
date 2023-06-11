@@ -1,0 +1,55 @@
+<svg class="background">
+  <use href="#fitfont" id="hr_background">
+    <use href="#fitfont-char"/>
+    <use href="#fitfont-char"/>
+    <use href="#fitfont-char"/>
+    <use href="#fitfont-char"/>
+    <use href="#fitfont-char"/>
+    <use href="#fitfont-char"/>
+    <use href="#fitfont-char"/>
+    <use href="#fitfont-char"/>
+    <use href="#fitfont-char"/>
+    <use href="#fitfont-char"/>
+    <use href="#fitfont-char"/>
+  </use>
+  <use href="#fitfont" id="hr_label">
+    <use href="#fitfont-char"/>
+    <use href="#fitfont-char"/>
+    <use href="#fitfont-char"/>
+    <use href="#fitfont-char"/>
+    <use href="#fitfont-char"/>
+    <use href="#fitfont-char"/>
+    <use href="#fitfont-char"/>
+    <use href="#fitfont-char"/>
+    <use href="#fitfont-char"/>
+    <use href="#fitfont-char"/>
+    <use href="#fitfont-char"/>
+  </use>
+  <use href="#fitfont" id="step_bg">
+    <use href="#fitfont-char"/>
+    <use href="#fitfont-char"/>
+    <use href="#fitfont-char"/>
+    <use href="#fitfont-char"/>
+    <use href="#fitfont-char"/>
+    <use href="#fitfont-char"/>
+    <use href="#fitfont-char"/>
+    <use href="#fitfont-char"/>
+    <use href="#fitfont-char"/>
+    <use href="#fitfont-char"/>
+    <use href="#fitfont-char"/>
+  </use>
+  <use href="#fitfont" id="step_label">
+    <use href="#fitfont-char"/>
+    <use href="#fitfont-char"/>
+    <use href="#fitfont-char"/>
+    <use href="#fitfont-char"/>
+    <use href="#fitfont-char"/>
+    <use href="#fitfont-char"/>
+    <use href="#fitfont-char"/>
+    <use href="#fitfont-char"/>
+    <use href="#fitfont-char"/>
+    <use href="#fitfont-char"/>
+    <use href="#fitfont-char"/>
+  </use>
+  <!-- <text id="steps">99999</text> -->
+</svg>

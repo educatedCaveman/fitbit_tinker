@@ -1,0 +1,43 @@
+<svg viewport-fill="black">
+  <mask id="mask">
+    <rect x="30" y="55"  width="270" height="100" />    
+    <rect x="35" y="225"  width="265" height="60" />
+  </mask>
+  <svg mask="#mask" width="100%" height="100%">
+    <rect width="100%" height="100%" fill="goldenrod" />
+    <use href="#fitfont" id="hr_label">
+      <use href="#fitfont-char"/>
+      <use href="#fitfont-char"/>
+      <use href="#fitfont-char"/>
+      <use href="#fitfont-char"/>
+      <use href="#fitfont-char"/>
+      <use href="#fitfont-char"/>
+      <use href="#fitfont-char"/>
+      <use href="#fitfont-char"/>
+      <use href="#fitfont-char"/>
+      <use href="#fitfont-char"/>
+      <use href="#fitfont-char"/>
+    </use>
+    <use href="#fitfont" id="step_label">
+      <use href="#fitfont-char"/>
+      <use href="#fitfont-char"/>
+      <use href="#fitfont-char"/>
+      <use href="#fitfont-char"/>
+      <use href="#fitfont-char"/>
+      <use href="#fitfont-char"/>
+      <use href="#fitfont-char"/>
+      <use href="#fitfont-char"/>
+      <use href="#fitfont-char"/>
+      <use href="#fitfont-char"/>
+      <use href="#fitfont-char"/>
+    </use>
+  </svg>
+  <!-- <text x="50%" y="15%"
+        font-family="System-Regular" fill="goldenrod"
+        font-size="24" font-weight="bold"
+        text-anchor="middle">Heart Rate</text>
+  <text x="50%" y="92%"
+        font-family="System-Regular" fill="goldenrod"
+        font-size="24" font-weight="bold"
+        text-anchor="middle">Steps</text> -->
+</svg>

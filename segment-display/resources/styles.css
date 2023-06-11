@@ -1,0 +1,16 @@
+#background {
+  fill: white;
+}
+
+
+#hr_label {
+  x: 50%;
+  y: 50%;
+  fill: black;  
+}
+
+#step_label {
+  x: 50%;
+  y: 75%+36;
+  fill: black;
+}
